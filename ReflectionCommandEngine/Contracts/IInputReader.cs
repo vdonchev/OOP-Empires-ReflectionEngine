@@ -1,4 +1,4 @@
-﻿namespace Empires.Contracts.GameLogic
+﻿namespace Empires.Contracts
 {
     public interface IInputReader
     {

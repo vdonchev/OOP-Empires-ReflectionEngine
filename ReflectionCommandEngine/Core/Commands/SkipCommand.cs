@@ -1,7 +1,7 @@
 ﻿namespace Empires.Core.Commands
 {
     using Attributes;
-    using Contracts.GameLogic;
+    using Contracts;
 
     [Command]
     public class SkipCommand : Command

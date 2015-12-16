@@ -1,7 +1,6 @@
 ﻿namespace Empires
 {
     using Contracts;
-    using Contracts.GameLogic;
     using Core;
     using Core.Factories;
     using Models.Building;

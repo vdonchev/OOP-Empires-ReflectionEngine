@@ -1,7 +1,6 @@
-﻿namespace Empires.Contracts.GameLogic
+﻿namespace Empires.Contracts
 {
     using System.Collections.Generic;
-    using Models;
 
     public interface IEmpiresDatabase
     {

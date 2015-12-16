@@ -1,7 +1,7 @@
 ﻿namespace Empires.UI
 {
     using System;
-    using Contracts.GameLogic;
+    using Contracts;
 
     public class ConsoleWriter : IOutputWriter
     {

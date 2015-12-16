@@ -2,7 +2,7 @@
 {
     using System.Globalization;
     using Attributes;
-    using Contracts.GameLogic;
+    using Contracts;
 
     [Command]
     public class BuildCommand : Command

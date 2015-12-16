@@ -2,7 +2,7 @@
 {
     using System;
     using Attributes;
-    using Contracts.GameLogic;
+    using Contracts;
 
     [Command]
     public class ArmisticeCommand : Command

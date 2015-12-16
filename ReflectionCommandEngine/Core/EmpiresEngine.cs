@@ -4,7 +4,6 @@
     using System.Globalization;
     using System.Linq;
     using Contracts;
-    using Contracts.GameLogic;
     using Exceptions;
 
     public class EmpiresEngine : IEmpiresEngine

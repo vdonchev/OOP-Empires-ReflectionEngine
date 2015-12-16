@@ -1,6 +1,6 @@
 ﻿namespace Empires.Core.Commands
 {
-    using Contracts.GameLogic;
+    using Contracts;
 
     public abstract class Command : ICommand
     {

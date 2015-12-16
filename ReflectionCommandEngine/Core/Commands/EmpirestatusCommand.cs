@@ -3,7 +3,7 @@
     using System.Linq;
     using System.Text;
     using Attributes;
-    using Contracts.GameLogic;
+    using Contracts;
 
     [Command]
     public class EmpirestatusCommand : Command
